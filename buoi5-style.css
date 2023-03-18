@@ -1,0 +1,10 @@
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+@media(max-width:768px){
+            #aside-card{
+                display: none;
+            }
+}
